@@ -1,0 +1,59 @@
+#img
+{
+
+	position: relative;
+	float:right;
+	font-weight: bold;
+	transform: rotate(-6deg);
+
+
+
+}
+
+
+
+span
+{
+	font-weight: bold;
+}
+
+td
+{
+	font-weight: bold;
+}
+
+.uni
+{
+	border-right: 1px solid black;
+	font-weight: bolder;
+	font-style: italic;
+	font-size: 19px;
+
+}
+#ul
+{
+	list-style-type: none;
+	font-weight: normal;
+}
+
+#ex
+{
+
+	font-weight: normal;
+
+}
+
+p:nth-child(4){
+
+	display: inline;
+}
+
+#img:hover
+{
+
+	background-color: green;
+}
+
+body{
+	background-color: gray;
+}
